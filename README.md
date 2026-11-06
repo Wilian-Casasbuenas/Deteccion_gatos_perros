@@ -64,5 +64,3 @@ Abre el enlace local que aparece en la terminal (usualmente http://localhost:850
 Selecciona el modo en el menú lateral (Analizar Archivo, Historial Multimedia o Galería de Capturas).
 Ajusta el Nivel de Confianza Mínimo mediante el control deslizante.
 Sube una imagen o video y haz clic en Ejecutar Reconocimiento.
-
-![Funcionamiento de la App](demo.png)
