@@ -55,3 +55,12 @@ detector_mascotas/
 ▶️ Ejecución de la Aplicación
 Para poner en marcha el servidor local de Streamlit, ejecuta:
  streamlit run app_ui.py
+
+
+Abre el enlace local que aparece en la terminal (usualmente http://localhost:8501) en tu navegador web.
+
+💡 Uso
+
+Selecciona el modo en el menú lateral (Analizar Archivo, Historial Multimedia o Galería de Capturas).
+Ajusta el Nivel de Confianza Mínimo mediante el control deslizante.
+Sube una imagen o video y haz clic en Ejecutar Reconocimiento.
