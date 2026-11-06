@@ -64,3 +64,5 @@ Abre el enlace local que aparece en la terminal (usualmente http://localhost:850
 Selecciona el modo en el menú lateral (Analizar Archivo, Historial Multimedia o Galería de Capturas).
 Ajusta el Nivel de Confianza Mínimo mediante el control deslizante.
 Sube una imagen o video y haz clic en Ejecutar Reconocimiento.
+
+<img width="1903" height="1049" alt="image" src="https://github.com/user-attachments/assets/e891a358-5be7-4ea1-87ac-e26924928392" />
