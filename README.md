@@ -65,4 +65,6 @@ Selecciona el modo en el menú lateral (Analizar Archivo, Historial Multimedia o
 Ajusta el Nivel de Confianza Mínimo mediante el control deslizante.
 Sube una imagen o video y haz clic en Ejecutar Reconocimiento.
 
-<img width="1903" height="1049" alt="image" src="https://github.com/user-attachments/assets/e891a358-5be7-4ea1-87ac-e26924928392" />
+<p align="center">
+  <img src="demo.png" alt="Funcionamiento de la App" width="700">
+</p>
