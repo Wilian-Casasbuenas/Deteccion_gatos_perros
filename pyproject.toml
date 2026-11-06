@@ -1,0 +1,8 @@
+[project]
+name = "detector-mascotas"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "opencv-python>=5.0.0.93",
+    "ultralytics>=8.4.203",
+]
